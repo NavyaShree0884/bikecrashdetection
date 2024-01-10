@@ -1,10 +1,10 @@
-Bike Crash Detection System for IoT
+##Bike Crash Detection System for IoT
 
-Overview
+##Overview
 
 This repository contains the implementation of a Bike Crash Detection System leveraging Internet of Things (IoT) technologies. The system aims to enhance cyclist safety by promptly identifying and responding to bike accidents. It utilizes sensor data, machine learning algorithms, and GPS technology for accurate crash detection and quick emergency response.
 
-Key Features
+##Key Features
 
 - Sensor Integration: Accelerometers and gyroscopes are integrated into the bicycle to capture motion data.
 - Machine Learning Model: A machine learning model is trained on crash-related patterns to accurately identify bike accidents.
@@ -15,7 +15,7 @@ Key Features
 - Power Sustainability: Implemented power management techniques maximize battery utilization for extended system function.
 - Testing and Validation: Thorough testing scenarios ensure the system's accuracy in crash detection, position tracking, and communication capabilities under varied environmental conditions.
 
- Project Objectives
+ ##Project Objectives
 
 1. Precise Crash Identification: Develop a robust algorithm to precisely identify bicycle collisions.
 2. Real-Time Position Tracking: Utilize the GPS Neo 6M module for providing emergency responders with exact real-time position data.
